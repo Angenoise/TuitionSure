@@ -1,4 +1,4 @@
-# TuitionSure
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/b2499ca6-d649-483e-932c-160c0e9d06f7" /># TuitionSure
 
 TuitionSure makes sure tuition money reaches the verified school wallet, not a student's personal spending wallet.
 
@@ -42,7 +42,20 @@ Install:
 Add the WASM target:
 
 ```bash
-rustup target add wasm32v1-none
+rustup target add wasm32v1-none 
 
+```
+
+## Screenshot
+
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/2a0b2a55-8cdb-490b-a753-4528418ef0d9" />
+
+## Contract ID: 
+
+- CBIKU4733GSN52GTAYFA2JT2RIDTB3VTQMTBCNRMWEJ2YHZQISV2B7UP
+
+## Explorer Link
+
+- https://stellar.expert/explorer/testnet/contract/CBIKU4733GSN52GTAYFA2JT2RIDTB3VTQMTBCNRMWEJ2YHZQISV2B7UP
 
 

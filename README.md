@@ -46,10 +46,6 @@ rustup target add wasm32v1-none
 
 ```
 
-## Screenshot
-
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/2a0b2a55-8cdb-490b-a753-4528418ef0d9" />
-
 ## Contract ID: 
 
 - CBIKU4733GSN52GTAYFA2JT2RIDTB3VTQMTBCNRMWEJ2YHZQISV2B7UP
@@ -57,3 +53,7 @@ rustup target add wasm32v1-none
 ## Explorer Link
 
 - https://stellar.expert/explorer/testnet/contract/CBIKU4733GSN52GTAYFA2JT2RIDTB3VTQMTBCNRMWEJ2YHZQISV2B7UP
+
+## Screenshot
+
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/2a0b2a55-8cdb-490b-a753-4528418ef0d9" />
